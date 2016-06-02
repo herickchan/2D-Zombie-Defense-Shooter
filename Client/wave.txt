@@ -1,0 +1,9 @@
+weak
+weak
+weak-medium
+medium
+medium
+weak-medium-hard
+medium-hard
+hard
+hard
